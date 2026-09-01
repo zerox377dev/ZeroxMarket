@@ -1,6 +1,6 @@
 # ZeroxMarket
 
-Private app distribution and auto-update marketplace for ArenaLive developer ecosystem.
+Private app distribution and auto-update marketplace for developer ecosystem.
 
 ## Purpose
 
@@ -15,12 +15,12 @@ Each app has its own directory with a `releases.json` manifest. Apps poll this m
 ```
 /<app-name>/
   releases.json          Update manifest
-  releases/<version>/    APK files for each version
+  releases/              APK files for each version
 ```
 
 ## Updating a release
 
-1. Place the new APK in `/<app-name>/releases/<version>/`
+1. Place the new APK in `/<app-name>/releases/`
 2. Update `releases.json` with the new version info and APK URL
 3. Push to `main` — apps will detect the update on next launch
 
