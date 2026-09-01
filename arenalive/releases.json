@@ -1,0 +1,15 @@
+{
+  "appName": "ArenaLive",
+  "releases": [
+    {
+      "versionName": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 24,
+      "releaseDate": "2026-09-01",
+      "changelog": "Initial release",
+      "apkUrl": "",
+      "apkSizeBytes": 0,
+      "mandatory": false
+    }
+  ]
+}

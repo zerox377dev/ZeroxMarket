@@ -1,0 +1,32 @@
+! ArenaLive - Firebase domains allowlist for AdGuard Home
+! Add these as URL-based filter lists in AdGuard Home:
+! Settings → Filters → DNS → Add allowlist
+
+! Firebase Core
+||firebaseinstallations.googleapis.com^
+||firebase-settings.googleapis.com^
+||firebaseremoteconfig.googleapis.com^
+||firebase.googleapis.com^
+||firebasestorage.googleapis.com^
+||app-measurement.com^
+
+! Firebase Crashlytics
+||crashlytics.com^
+||e.crashlytics.com^
+||reports.crashlytics.com^
+||sdk-crashlytics-gcp.sdngcp.com^
+
+! Firebase Analytics
+||google-analytics.com^
+||analytics.google.com^
+||www.googletagmanager.com^
+||doubleclick.net^
+
+! Firebase Performance
+||play.googleapis.com^
+||perfetto.googleapis.com^
+
+! Google APIs
+||www.googleapis.com^
+||fonts.googleapis.com^
+||maps.googleapis.com^
