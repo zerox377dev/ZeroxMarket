@@ -1,5 +1,6 @@
 {
   "appName": "ArenaLive",
+  "packageName": "com.arenalive.app",
   "releases": [
     {
       "versionName": "1.0.0",
@@ -7,8 +8,8 @@
       "minSdk": 24,
       "releaseDate": "2026-09-01",
       "changelog": "Initial release",
-      "apkUrl": "",
-      "apkSizeBytes": 0,
+      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/arenalive/releases/ArenaLive%20Release%20%5B01-Sep-2026%5D%20(Version-1.0.0).apk",
+      "apkSizeBytes": 8350363,
       "mandatory": false
     }
   ]
