@@ -3,13 +3,20 @@
   "packageName": "com.arenalive.app",
   "releases": [
     {
-      "versionName": "1.0.2",
-      "versionCode": 3,
+      "versionName": "1.0.3",
+      "versionCode": 4,
       "minSdk": 24,
-      "releaseDate": "2026-09-01",
-      "changelog": "Welcome to ArenaLive! Your gateway to live sports events. Improved stability and performance for a smoother streaming experience.",
-      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/arenalive/releases/ArenaLiveV3.apk",
-      "apkSizeBytes": 8383557
+      "releaseDate": "2026-09-02",
+      "changelog": "Welcome to ArenaLive!",
+      "changelogV2": {
+        "en": "Welcome to ArenaLive! This update brings better performance and an improved viewing experience.",
+        "de": "Willkommen bei ArenaLive! Dieses Update bringt bessere Leistung und ein verbessertes Seherlebnis.",
+        "fr": "Bienvenue sur ArenaLive ! Cette mise à jour apporte de meilleures performances et une expérience de visionnage améliorée.",
+        "sq": "Mirë se vini në ArenaLive! Ky përditësim sjell performancë më të mirë dhe një përvojë më të këndshme shikimi.",
+        "mk": "Добредојдовте во ArenaLive! Ова ажурирање носи подобри перформанси и подобро искуство при гледање."
+      },
+      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/arenalive/releases/ArenaLiveV4.apk",
+      "apkSizeBytes": 8422966
     }
   ]
 }
