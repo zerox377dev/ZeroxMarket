@@ -3,10 +3,10 @@
   "packageName": "com.arenalive.app",
   "releases": [
     {
-      "versionName": "1.1.2",
-      "versionCode": 13,
+      "versionName": "1.1.3",
+      "versionCode": 14,
       "minSdk": 24,
-      "releaseDate": "2026-09-06",
+      "releaseDate": "2026-09-07",
       "changelog": "Welcome to ArenaLive!",
       "changelogV2": {
         "en": "Welcome to ArenaLive! This update brings better performance and an improved viewing experience.",
@@ -16,8 +16,8 @@
         "sq": "Mirë se vini në ArenaLive! Ky përditësim sjell performancë më të mirë dhe një përvojë më të këndshme shikimi.",
         "mk": "Добредојдовте во ArenaLive! Ова ажурирање носи подобри перформанси и подобро искуство при гледање."
       },
-      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/arenalive/releases/ArenaLive12.apk",
-      "shortApkUrl": "https://tinyurl.com/yc4pajek",
+      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/arenalive/releases/ArenaLive13.apk",
+      "shortApkUrl": "https://tinyurl.com/2et7jv5y",
       "apkSizeBytes": 8790409
     }
   ]
