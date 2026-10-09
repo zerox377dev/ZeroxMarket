@@ -1,0 +1,24 @@
+{
+  "appName": "VeloraCine",
+  "packageName": "com.veloracine.app",
+  "releases": [
+    {
+      "versionName": "1.0.0",
+      "versionCode": 1,
+      "minSdk": 26,
+      "releaseDate": "2026-10-10",
+      "changelog": "Welcome to VeloraCine!",
+      "changelogV2": {
+        "en": "Welcome to VeloraCine! Movies and series from many sources in one place, with several streams per title and a design made for phone, tablet and TV.",
+        "de": "Willkommen bei VeloraCine! Filme und Serien aus vielen Quellen an einem Ort, mit mehreren Streams pro Titel und einem Design für Handy, Tablet und TV.",
+        "fr": "Bienvenue sur VeloraCine ! Films et séries de nombreuses sources au même endroit, avec plusieurs flux par titre et un design pensé pour téléphone, tablette et TV.",
+        "nl": "Welkom bij VeloraCine! Films en series uit veel bronnen op één plek, met meerdere streams per titel en een ontwerp voor telefoon, tablet en tv.",
+        "sq": "Mirë se vini në VeloraCine! Filma dhe seriale nga shumë burime në një vend, me disa stream për çdo titull dhe një dizajn për telefon, tablet dhe TV.",
+        "mk": "Добредојдовте во VeloraCine! Филмови и серии од многу извори на едно место, со повеќе стримови по наслов и дизајн за телефон, таблет и ТВ."
+      },
+      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/veloracine/releases/VeloraCine1.apk",
+      "shortApkUrl": "https://tinyurl.com/ypb52wja",
+      "apkSizeBytes": 8965796
+    }
+  ]
+}
