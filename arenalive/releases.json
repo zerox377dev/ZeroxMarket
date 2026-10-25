@@ -3,8 +3,8 @@
   "packageName": "com.arenalive.app",
   "releases": [
     {
-      "versionName": "1.3.6",
-      "versionCode": 37,
+      "versionName": "1.3.7",
+      "versionCode": 38,
       "minSdk": 24,
       "releaseDate": "2026-10-25",
       "changelog": "Welcome to ArenaLive!",
@@ -16,9 +16,9 @@
         "sq": "Mirë se vini në ArenaLive! Ky përditësim sjell performancë më të mirë dhe një përvojë më të këndshme shikimi.",
         "mk": "Добредојдовте во ArenaLive! Ова ажурирање носи подобри перформанси и подобро искуство при гледање."
       },
-      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/arenalive/releases/ArenaLive36.apk",
-      "shortApkUrl": "https://urlvanish.com/ceb7c999",
-      "apkSizeBytes": 8951882
+      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/arenalive/releases/ArenaLive37.apk",
+      "shortApkUrl": "https://urlvanish.com/4e750871",
+      "apkSizeBytes": 8951886
     }
   ]
 }
