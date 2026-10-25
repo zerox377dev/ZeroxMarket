@@ -3,10 +3,10 @@
   "packageName": "com.veloracine.app",
   "releases": [
     {
-      "versionName": "1.1.5",
-      "versionCode": 16,
+      "versionName": "1.1.6",
+      "versionCode": 17,
       "minSdk": 26,
-      "releaseDate": "2026-10-24",
+      "releaseDate": "2026-10-25",
       "changelog": "Welcome to VeloraCine!",
       "changelogV2": {
         "en": "Welcome to VeloraCine! Movies and series from many sources in one place, with several streams per title and a design made for phone, tablet and TV.",
@@ -16,9 +16,9 @@
         "sq": "Mirë se vini në VeloraCine! Filma dhe seriale nga shumë burime në një vend, me disa stream për çdo titull dhe një dizajn për telefon, tablet dhe TV.",
         "mk": "Добредојдовте во VeloraCine! Филмови и серии од многу извори на едно место, со повеќе стримови по наслов и дизајн за телефон, таблет и ТВ."
       },
-      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/veloracine/releases/VeloraCine16.apk",
-      "shortApkUrl": "https://urlvanish.com/1d237881",
-      "apkSizeBytes": 9250757
+      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/veloracine/releases/VeloraCine17.apk",
+      "shortApkUrl": "https://urlvanish.com/de294fa4",
+      "apkSizeBytes": 9252405
     }
   ]
 }
