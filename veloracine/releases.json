@@ -3,22 +3,22 @@
   "packageName": "com.veloracine.app",
   "releases": [
     {
-      "versionName": "1.2.1",
-      "versionCode": 22,
+      "versionName": "1.2.2",
+      "versionCode": 23,
       "minSdk": 26,
-      "releaseDate": "2026-10-25",
-      "changelog": "Welcome to VeloraCine!",
+      "releaseDate": "2026-11-01",
+      "changelog": "Improved episode matching and thumbnails, playback and TV focus fixes, smoother Home loading, and refreshed language selection.",
       "changelogV2": {
-        "en": "Welcome to VeloraCine! Movies and series from many sources in one place, with several streams per title and a design made for phone, tablet and TV.",
-        "de": "Willkommen bei VeloraCine! Filme und Serien aus vielen Quellen an einem Ort, mit mehreren Streams pro Titel und einem Design für Handy, Tablet und TV.",
-        "fr": "Bienvenue sur VeloraCine ! Films et séries de nombreuses sources au même endroit, avec plusieurs flux par titre et un design pensé pour téléphone, tablette et TV.",
-        "nl": "Welkom bij VeloraCine! Films en series uit veel bronnen op één plek, met meerdere streams per titel en een ontwerp voor telefoon, tablet en tv.",
-        "sq": "Mirë se vini në VeloraCine! Filma dhe seriale nga shumë burime në një vend, me disa stream për çdo titull dhe një dizajn për telefon, tablet dhe TV.",
-        "mk": "Добредојдовте во VeloraCine! Филмови и серии од многу извори на едно место, со повеќе стримови по наслов и дизајн за телефон, таблет и ТВ."
+        "en": "Improved episode matching and thumbnails, playback and TV focus fixes, smoother Home loading, and refreshed language selection.",
+        "de": "Verbesserte Episodenzuordnung und Vorschaubilder, Korrekturen bei Wiedergabe und TV-Fokus, flüssigeres Laden der Startseite und überarbeitete Sprachauswahl.",
+        "fr": "Meilleure correspondance des épisodes et des miniatures, corrections de lecture et de navigation sur TV, accueil plus fluide et sélection de langue revue.",
+        "nl": "Betere afleveringstoewijzing en miniaturen, verbeteringen aan afspelen en tv-navigatie, soepeler laden van het startscherm en vernieuwde taalkeuze.",
+        "sq": "Përputhje më e mirë e episodeve dhe miniaturave, rregullime në riprodhim dhe fokusin në TV, ngarkim më i rrjedhshëm i faqes kryesore dhe përzgjedhje e përmirësuar e gjuhës.",
+        "mk": "Подобрено совпаѓање на епизодите и сликичките, поправки на репродукцијата и фокусот на ТВ, потечно вчитување на почетниот екран и обновен избор на јазик."
       },
-      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/veloracine/releases/VeloraCine22.apk",
-      "shortApkUrl": "https://urlvanish.com/a5c36c48",
-      "apkSizeBytes": 9272145
+      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/veloracine/releases/VeloraCine23.apk",
+      "shortApkUrl": "https://urlvanish.com/8115e370",
+      "apkSizeBytes": 9338148
     }
   ]
 }
