@@ -3,22 +3,22 @@
   "packageName": "com.arenalive.app",
   "releases": [
     {
-      "versionName": "1.4.2",
-      "versionCode": 42,
+      "versionName": "1.4.3",
+      "versionCode": 43,
       "minSdk": 24,
       "releaseDate": "2026-11-01",
-      "changelog": "Faster team badges, improved language selection, and smoother scrolling and TV performance.",
+      "changelog": "Improved landscape language selection and bottom-sheet navigation colors.",
       "changelogV2": {
-        "en": "Faster team badges, improved language selection, and smoother scrolling and TV performance.",
-        "de": "Schnellere Teamlogos, verbesserte Sprachauswahl sowie flüssigeres Scrollen und bessere TV-Leistung.",
-        "fr": "Logos des équipes plus rapides, sélection de langue améliorée, défilement plus fluide et meilleures performances sur TV.",
-        "nl": "Snellere teamlogo’s, verbeterde taalkeuze, soepeler scrollen en betere tv-prestaties.",
-        "sq": "Emblema ekipesh që ngarkohen më shpejt, përzgjedhje më e mirë e gjuhës, lëvizje më e rrjedhshme dhe performancë më e mirë në TV.",
-        "mk": "Побрзо вчитување на тимските грбови, подобрен избор на јазик, потечно лизгање и подобри перформанси на ТВ."
+        "en": "Improved landscape language selection and bottom-sheet navigation colors.",
+        "de": "Verbesserte Sprachauswahl im Querformat und passende Navigationsleistenfarben im Sprachdialog.",
+        "fr": "Sélection de langue améliorée en mode paysage et couleurs de navigation assorties au panneau de langues.",
+        "nl": "Verbeterde taalkeuze in liggende stand en navigatiekleuren die bij het taalvenster passen.",
+        "sq": "Përzgjedhje më e mirë e gjuhës në pamjen horizontale dhe ngjyra navigimi që përputhen me panelin e gjuhëve.",
+        "mk": "Подобрен избор на јазик во хоризонтална положба и усогласени бои на навигацијата во панелот за јазици."
       },
-      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/arenalive/releases/ArenaLive43.apk",
-      "shortApkUrl": "https://urlvanish.com/27c1dbbc",
-      "apkSizeBytes": 9076314
+      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/arenalive/releases/ArenaLive44.apk",
+      "shortApkUrl": "https://urlvanish.com/d7bb1aed",
+      "apkSizeBytes": 9076822
     }
   ]
 }
