@@ -3,22 +3,22 @@
   "packageName": "com.arenalive.app",
   "releases": [
     {
-      "versionName": "1.4.1",
-      "versionCode": 41,
+      "versionName": "1.4.2",
+      "versionCode": 42,
       "minSdk": 24,
       "releaseDate": "2026-11-01",
-      "changelog": "Improved TV navigation and focus, smoother lists, and playback and notification fixes.",
+      "changelog": "Faster team badges, improved language selection, and smoother scrolling and TV performance.",
       "changelogV2": {
-        "en": "Improved TV navigation and focus, smoother lists, and playback and notification fixes.",
-        "de": "Verbesserte TV-Navigation und Fokussteuerung, flüssigere Listen sowie Fehlerbehebungen bei Wiedergabe und Benachrichtigungen.",
-        "fr": "Navigation et sélection sur TV améliorées, listes plus fluides et corrections de lecture et de notifications.",
-        "nl": "Verbeterde tv-navigatie en focus, soepelere lijsten en oplossingen voor afspelen en meldingen.",
-        "sq": "Navigim dhe fokus më i mirë në TV, lista më të rrjedhshme dhe rregullime për luajtjen e njoftimet.",
-        "mk": "Подобрена навигација и фокус на ТВ, потечни списоци и поправки за репродукцијата и известувањата."
+        "en": "Faster team badges, improved language selection, and smoother scrolling and TV performance.",
+        "de": "Schnellere Teamlogos, verbesserte Sprachauswahl sowie flüssigeres Scrollen und bessere TV-Leistung.",
+        "fr": "Logos des équipes plus rapides, sélection de langue améliorée, défilement plus fluide et meilleures performances sur TV.",
+        "nl": "Snellere teamlogo’s, verbeterde taalkeuze, soepeler scrollen en betere tv-prestaties.",
+        "sq": "Emblema ekipesh që ngarkohen më shpejt, përzgjedhje më e mirë e gjuhës, lëvizje më e rrjedhshme dhe performancë më e mirë në TV.",
+        "mk": "Побрзо вчитување на тимските грбови, подобрен избор на јазик, потечно лизгање и подобри перформанси на ТВ."
       },
-      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/arenalive/releases/ArenaLive42.apk",
-      "shortApkUrl": "https://urlvanish.com/39933eb4",
-      "apkSizeBytes": 9012971
+      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/arenalive/releases/ArenaLive43.apk",
+      "shortApkUrl": "https://urlvanish.com/27c1dbbc",
+      "apkSizeBytes": 9076314
     }
   ]
 }
