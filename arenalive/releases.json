@@ -3,21 +3,21 @@
   "packageName": "com.arenalive.app",
   "releases": [
     {
-      "versionName": "1.4.3",
-      "versionCode": 43,
+      "versionName": "1.4.4",
+      "versionCode": 44,
       "minSdk": 24,
       "releaseDate": "2026-11-01",
-      "changelog": "Improved landscape language selection and bottom-sheet navigation colors.",
+      "changelog": "Team badges now fade in without a blank step. Match alerts are enabled by default, including after updating.",
       "changelogV2": {
-        "en": "Improved landscape language selection and bottom-sheet navigation colors.",
-        "de": "Verbesserte Sprachauswahl im Querformat und passende Navigationsleistenfarben im Sprachdialog.",
-        "fr": "Sélection de langue améliorée en mode paysage et couleurs de navigation assorties au panneau de langues.",
-        "nl": "Verbeterde taalkeuze in liggende stand en navigatiekleuren die bij het taalvenster passen.",
-        "sq": "Përzgjedhje më e mirë e gjuhës në pamjen horizontale dhe ngjyra navigimi që përputhen me panelin e gjuhëve.",
-        "mk": "Подобрен избор на јазик во хоризонтална положба и усогласени бои на навигацијата во панелот за јазици."
+        "en": "Team badges now fade in without a blank step. Match alerts are enabled by default, including after updating.",
+        "de": "Teamlogos werden ohne leeren Zwischenschritt eingeblendet. Spielbenachrichtigungen sind standardmäßig aktiviert, auch nach einem Update.",
+        "fr": "Les logos des équipes apparaissent en fondu sans étape vide. Les alertes de match sont activées par défaut, y compris après une mise à jour.",
+        "nl": "Teamlogo’s verschijnen vloeiend zonder leeg tussenbeeld. Wedstrijdmeldingen staan standaard aan, ook na een update.",
+        "sq": "Emblemat e ekipeve shfaqen gradualisht pa një hap bosh. Njoftimet për ndeshjet janë të aktivizuara si parazgjedhje, edhe pas përditësimit.",
+        "mk": "Тимските грбови се појавуваат постепено без празен меѓучекор. Известувањата за натпревари се стандардно вклучени, и по ажурирање."
       },
-      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/arenalive/releases/ArenaLive44.apk",
-      "shortApkUrl": "https://urlvanish.com/d7bb1aed",
+      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/arenalive/releases/ArenaLive45.apk",
+      "shortApkUrl": "https://urlvanish.com/6a8e467f",
       "apkSizeBytes": 9076822
     }
   ]
