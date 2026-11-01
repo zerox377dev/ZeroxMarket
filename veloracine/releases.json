@@ -3,22 +3,22 @@
   "packageName": "com.veloracine.app",
   "releases": [
     {
-      "versionName": "1.2.2",
-      "versionCode": 23,
+      "versionName": "1.2.3",
+      "versionCode": 24,
       "minSdk": 26,
       "releaseDate": "2026-11-01",
-      "changelog": "Improved episode matching and thumbnails, playback and TV focus fixes, smoother Home loading, and refreshed language selection.",
+      "changelog": "Restored missing providers and episodes, improved detail loading, and corrected notification defaults and upgrade settings.",
       "changelogV2": {
-        "en": "Improved episode matching and thumbnails, playback and TV focus fixes, smoother Home loading, and refreshed language selection.",
-        "de": "Verbesserte Episodenzuordnung und Vorschaubilder, Korrekturen bei Wiedergabe und TV-Fokus, flüssigeres Laden der Startseite und überarbeitete Sprachauswahl.",
-        "fr": "Meilleure correspondance des épisodes et des miniatures, corrections de lecture et de navigation sur TV, accueil plus fluide et sélection de langue revue.",
-        "nl": "Betere afleveringstoewijzing en miniaturen, verbeteringen aan afspelen en tv-navigatie, soepeler laden van het startscherm en vernieuwde taalkeuze.",
-        "sq": "Përputhje më e mirë e episodeve dhe miniaturave, rregullime në riprodhim dhe fokusin në TV, ngarkim më i rrjedhshëm i faqes kryesore dhe përzgjedhje e përmirësuar e gjuhës.",
-        "mk": "Подобрено совпаѓање на епизодите и сликичките, поправки на репродукцијата и фокусот на ТВ, потечно вчитување на почетниот екран и обновен избор на јазик."
+        "en": "Restored missing providers and episodes, improved detail loading, and corrected notification defaults and upgrade settings.",
+        "de": "Fehlende Anbieter und Episoden wiederhergestellt, das Laden der Details verbessert und Benachrichtigungsstandards sowie Einstellungen beim Update korrigiert.",
+        "fr": "Sources et épisodes manquants restaurés, chargement des détails amélioré et réglages des notifications corrigés, y compris après une mise à jour.",
+        "nl": "Ontbrekende aanbieders en afleveringen hersteld, details laden beter en standaardmeldingen en instellingen na updates zijn gecorrigeerd.",
+        "sq": "U rikthyen ofruesit dhe episodet që mungonin, u përmirësua ngarkimi i detajeve dhe u rregulluan cilësimet e njoftimeve, përfshirë pas përditësimit.",
+        "mk": "Вратени се изворите и епизодите што недостигаа, подобрено е вчитувањето на деталите и поправени се поставките за известувања, вклучително и по ажурирање."
       },
-      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/veloracine/releases/VeloraCine23.apk",
-      "shortApkUrl": "https://urlvanish.com/8115e370",
-      "apkSizeBytes": 9338148
+      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/veloracine/releases/VeloraCine24.apk",
+      "shortApkUrl": "https://urlvanish.com/e7b5b9d0",
+      "apkSizeBytes": 9354532
     }
   ]
 }
