@@ -3,22 +3,22 @@
   "packageName": "com.veloracine.app",
   "releases": [
     {
-      "versionName": "1.2.3",
-      "versionCode": 24,
+      "versionName": "1.2.4",
+      "versionCode": 25,
       "minSdk": 26,
       "releaseDate": "2026-11-01",
-      "changelog": "Restored missing providers and episodes, improved detail loading, and corrected notification defaults and upgrade settings.",
+      "changelog": "Fixed loading indicators restarting as providers arrive and repeated episode list reloads. Late episode updates now keep the current list and page visible.",
       "changelogV2": {
-        "en": "Restored missing providers and episodes, improved detail loading, and corrected notification defaults and upgrade settings.",
-        "de": "Fehlende Anbieter und Episoden wiederhergestellt, das Laden der Details verbessert und Benachrichtigungsstandards sowie Einstellungen beim Update korrigiert.",
-        "fr": "Sources et épisodes manquants restaurés, chargement des détails amélioré et réglages des notifications corrigés, y compris après une mise à jour.",
-        "nl": "Ontbrekende aanbieders en afleveringen hersteld, details laden beter en standaardmeldingen en instellingen na updates zijn gecorrigeerd.",
-        "sq": "U rikthyen ofruesit dhe episodet që mungonin, u përmirësua ngarkimi i detajeve dhe u rregulluan cilësimet e njoftimeve, përfshirë pas përditësimit.",
-        "mk": "Вратени се изворите и епизодите што недостигаа, подобрено е вчитувањето на деталите и поправени се поставките за известувања, вклучително и по ажурирање."
+        "en": "Fixed loading indicators restarting as providers arrive and repeated episode list reloads. Late episode updates now keep the current list and page visible.",
+        "de": "Neustarts der Ladeanzeige bei neuen Anbieterantworten und wiederholtes Neuladen der Episodenliste behoben. Späte Aktualisierungen erhalten die sichtbare Liste und Seite.",
+        "fr": "Correction des redémarrages des indicateurs de chargement et des rechargements répétés des épisodes. Les mises à jour tardives préservent la liste et la page affichées.",
+        "nl": "Herstartende laadindicatoren en herhaald laden van afleveringen opgelost. Latere updates houden de huidige lijst en pagina zichtbaar.",
+        "sq": "U rregulluan rifillimi i treguesit të ngarkimit dhe ringarkimet e përsëritura të episodeve. Përditësimet e vonuara ruajnë listën dhe faqen e shfaqur.",
+        "mk": "Поправени се повторното појавување на индикаторот за вчитување и постојаното превчитување на епизодите. Подоцнежните ажурирања ги задржуваат прикажаната листа и страница."
       },
-      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/veloracine/releases/VeloraCine24.apk",
-      "shortApkUrl": "https://urlvanish.com/e7b5b9d0",
-      "apkSizeBytes": 9354532
+      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/veloracine/releases/VeloraCine25.apk",
+      "shortApkUrl": "https://urlvanish.com/b3e42200",
+      "apkSizeBytes": 9338148
     }
   ]
 }
