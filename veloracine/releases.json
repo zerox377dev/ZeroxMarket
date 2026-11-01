@@ -3,22 +3,22 @@
   "packageName": "com.veloracine.app",
   "releases": [
     {
-      "versionName": "1.2.4",
-      "versionCode": 25,
+      "versionName": "1.2.5",
+      "versionCode": 26,
       "minSdk": 26,
-      "releaseDate": "2026-11-01",
-      "changelog": "Fixed loading indicators restarting as providers arrive and repeated episode list reloads. Late episode updates now keep the current list and page visible.",
+      "releaseDate": "2026-11-02",
+      "changelog": "Faster title discovery on low-memory devices. Loading indicators now follow remaining provider work, with reliable refresh and retry handling.",
       "changelogV2": {
-        "en": "Fixed loading indicators restarting as providers arrive and repeated episode list reloads. Late episode updates now keep the current list and page visible.",
-        "de": "Neustarts der Ladeanzeige bei neuen Anbieterantworten und wiederholtes Neuladen der Episodenliste behoben. Späte Aktualisierungen erhalten die sichtbare Liste und Seite.",
-        "fr": "Correction des redémarrages des indicateurs de chargement et des rechargements répétés des épisodes. Les mises à jour tardives préservent la liste et la page affichées.",
-        "nl": "Herstartende laadindicatoren en herhaald laden van afleveringen opgelost. Latere updates houden de huidige lijst en pagina zichtbaar.",
-        "sq": "U rregulluan rifillimi i treguesit të ngarkimit dhe ringarkimet e përsëritura të episodeve. Përditësimet e vonuara ruajnë listën dhe faqen e shfaqur.",
-        "mk": "Поправени се повторното појавување на индикаторот за вчитување и постојаното превчитување на епизодите. Подоцнежните ажурирања ги задржуваат прикажаната листа и страница."
+        "en": "Faster title discovery on low-memory devices. Loading indicators now follow remaining provider work, with reliable refresh and retry handling.",
+        "de": "Schnellere Titelsuche auf Geräten mit wenig Arbeitsspeicher. Ladeanzeigen berücksichtigen nun ausstehende Anbieteranfragen; Aktualisierung und Wiederholungen funktionieren zuverlässiger.",
+        "fr": "Recherche des titres plus rapide sur les appareils à mémoire limitée. Les indicateurs suivent les requêtes restantes des sources, avec une actualisation et des nouvelles tentatives plus fiables.",
+        "nl": "Snellere titelzoekopdrachten op apparaten met weinig geheugen. Laadindicatoren volgen nu lopende aanvragen bij aanbieders, met betrouwbaarder vernieuwen en opnieuw proberen.",
+        "sq": "Kërkim më i shpejtë i titujve në pajisjet me pak memorie. Treguesit e ngarkimit ndjekin kërkesat e mbetura të ofruesve, me rifreskim dhe riprovim më të besueshëm.",
+        "mk": "Побрзо пронаоѓање на наслови на уреди со малку меморија. Индикаторите ги следат преостанатите барања до изворите, со посигурно освежување и повторни обиди."
       },
-      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/veloracine/releases/VeloraCine25.apk",
-      "shortApkUrl": "https://urlvanish.com/b3e42200",
-      "apkSizeBytes": 9338148
+      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/veloracine/releases/VeloraCine26.apk",
+      "shortApkUrl": "https://urlvanish.com/035c473d",
+      "apkSizeBytes": 9354532
     }
   ]
 }
