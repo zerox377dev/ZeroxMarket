@@ -3,21 +3,21 @@
   "packageName": "com.veloracine.app",
   "releases": [
     {
-      "versionName": "1.2.5",
-      "versionCode": 26,
+      "versionName": "1.2.6",
+      "versionCode": 27,
       "minSdk": 26,
-      "releaseDate": "2026-11-02",
-      "changelog": "Faster title discovery on low-memory devices. Loading indicators now follow remaining provider work, with reliable refresh and retry handling.",
+      "releaseDate": "2026-11-04",
+      "changelog": "Welcome to VeloraCine!",
       "changelogV2": {
-        "en": "Faster title discovery on low-memory devices. Loading indicators now follow remaining provider work, with reliable refresh and retry handling.",
-        "de": "Schnellere Titelsuche auf Geräten mit wenig Arbeitsspeicher. Ladeanzeigen berücksichtigen nun ausstehende Anbieteranfragen; Aktualisierung und Wiederholungen funktionieren zuverlässiger.",
-        "fr": "Recherche des titres plus rapide sur les appareils à mémoire limitée. Les indicateurs suivent les requêtes restantes des sources, avec une actualisation et des nouvelles tentatives plus fiables.",
-        "nl": "Snellere titelzoekopdrachten op apparaten met weinig geheugen. Laadindicatoren volgen nu lopende aanvragen bij aanbieders, met betrouwbaarder vernieuwen en opnieuw proberen.",
-        "sq": "Kërkim më i shpejtë i titujve në pajisjet me pak memorie. Treguesit e ngarkimit ndjekin kërkesat e mbetura të ofruesve, me rifreskim dhe riprovim më të besueshëm.",
-        "mk": "Побрзо пронаоѓање на наслови на уреди со малку меморија. Индикаторите ги следат преостанатите барања до изворите, со посигурно освежување и повторни обиди."
+        "en": "Welcome to VeloraCine! Movies and series from many sources in one place, with several streams per title and a design made for phone, tablet and TV.",
+        "de": "Willkommen bei VeloraCine! Filme und Serien aus vielen Quellen an einem Ort, mit mehreren Streams pro Titel und einem Design für Handy, Tablet und TV.",
+        "fr": "Bienvenue sur VeloraCine ! Films et séries de nombreuses sources au même endroit, avec plusieurs flux par titre et un design pensé pour téléphone, tablette et TV.",
+        "nl": "Welkom bij VeloraCine! Films en series uit veel bronnen op één plek, met meerdere streams per titel en een ontwerp voor telefoon, tablet en tv.",
+        "sq": "Mirë se vini në VeloraCine! Filma dhe seriale nga shumë burime në një vend, me disa stream për çdo titull dhe një dizajn për telefon, tablet dhe TV.",
+        "mk": "Добредојдовте во VeloraCine! Филмови и серии од многу извори на едно место, со повеќе стримови по наслов и дизајн за телефон, таблет и ТВ."
       },
-      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/veloracine/releases/VeloraCine26.apk",
-      "shortApkUrl": "https://urlvanish.com/035c473d",
+      "apkUrl": "https://raw.githubusercontent.com/zerox377dev/ZeroxMarket/main/veloracine/releases/VeloraCine27.apk",
+      "shortApkUrl": "https://urlvanish.com/0abab3dc",
       "apkSizeBytes": 9354532
     }
   ]
